@@ -1,6 +1,4 @@
-Python-Assessment
-
-Exploring Employee Dynamics at ABC Company
+Exploring Employee Dynamics at ABC Company Using SEABORN AND MATPLOTLIB
 
 Preprocessing:
 Corrected the data in the "height" column by replacing it with random numbers between 150 and 180. This ensured data consistency and integrity before proceeding with analysis.
